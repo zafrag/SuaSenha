@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SuaSenha</string>
+    <string name="action_settings">Settings</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="title_activity_inicial">Inicial</string>
+</resources>
